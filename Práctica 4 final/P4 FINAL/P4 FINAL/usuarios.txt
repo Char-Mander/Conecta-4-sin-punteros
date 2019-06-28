@@ -1,0 +1,43 @@
+6
+alvaro
+alvaro
+0 -1 0
+1 1 0
+1462717911
+Ha ganado por abandono una partida contra marta el 2016/03/16.
+_X_X_X_
+laura
+laura
+0 1 0
+1 1 0
+1462717958
+
+_X_X_X_
+luis
+luis
+0 0 0
+0 0 0
+1462706895
+
+_X_X_X_
+marta
+marta
+0 0 1
+0 0 0
+1462725634
+
+_X_X_X_
+pepito
+pepito
+0 1 0
+1 0 0
+1462717842
+Ha ganado por abandono una partida contra laura el 2016/05/08.
+_X_X_X_
+susana
+susana
+0 0 0
+0 0 0
+1462710017
+
+_X_X_X_
